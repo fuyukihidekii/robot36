@@ -5,8 +5,8 @@
 	<string name="store_scope">Salvar imagem</string>
 	<string name="toggle_mode">Alternar modo</string>
 	<string name="auto_mode">Modo automático</string>
-	<string name="lock_mode">Lock Mode</string>
-	<string name="raw_mode">Raw Mode</string>
+	<string name="lock_mode">Modo de bloqueio</string>
+	<string name="raw_mode">Modo Raw</string>
 	<string name="listening">Ouvindo</string>
 	<string name="audio_settings">Configurações de áudio</string>
 	<string name="sample_rate">Taxa de amostragem</string>
